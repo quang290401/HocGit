@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e727aa04-113c-400a-8009-e30cadc3612b" name="Changes" comment="&quot;Sửa Quang&quot;">
+    <list default="true" id="e727aa04-113c-400a-8009-e30cadc3612b" name="Changes" comment="&quot;xkl&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714729576644</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;xkl&quot;">
+      <created>1714731696052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714731696052</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Sửa Quang&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Sửa Quang&quot;" />
+    <MESSAGE value="&quot;xkl&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;xkl&quot;" />
   </component>
 </project>
