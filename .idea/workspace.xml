@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e727aa04-113c-400a-8009-e30cadc3612b" name="Changes" comment="&quot;xkl&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Git2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714731696052</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;xkl&quot;">
+      <created>1714733814898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714733814898</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
