@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca8aadd-bb66-4050-9f42-06990d88995a" name="Changes" comment="&quot;thêm Hà&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duong.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Git.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ha.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang.txt" beforeDir="false" />
+    <list default="true" id="2ca8aadd-bb66-4050-9f42-06990d88995a" name="Changes" comment="&quot;Sửa Quang&quot;">
+      <change afterPath="$PROJECT_DIR$/Git2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +52,44 @@
       <updated>1714582556783</updated>
       <workItem from="1714582558056" duration="98000" />
       <workItem from="1714635139384" duration="729000" />
-      <workItem from="1714724254062" duration="2097000" />
+      <workItem from="1714724254062" duration="3132000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Sửa Quang&quot;">
+      <created>1714729268981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714729268981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Sửa Quang&quot;">
+      <created>1714729563684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714729563684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Sửa Quang&quot;">
+      <created>1714729576644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714729576644</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Sửa Quang&quot;">
+      <created>1714729861476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714729861476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Sửa Quang&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Sửa Quang&quot;" />
   </component>
 </project>
